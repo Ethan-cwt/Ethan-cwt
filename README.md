@@ -10,6 +10,8 @@
 
 
 -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：读者。
+<!-- 通过style设置徽标样式，通过logo设置icon，通过logoColor设置icon颜色 -->
+![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
 ### **技术栈:**
 
